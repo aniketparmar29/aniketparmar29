@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketparmar29&label=Profile%20views&color=0e75b6&style=flat" alt="aniketparmar29" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://aniketparmar29.github.io/](https://aniketparmar29.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://aniketparmar29.github.io/" traget="_blank">Portfolio</a>
 
 - 💬 Ask me about **react,javascript**
 
