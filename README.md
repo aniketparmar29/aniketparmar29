@@ -1,4 +1,18 @@
+<style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
 
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+</style>
 <h1 align="center">Hi 👋, I'm Aniket Parmar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
