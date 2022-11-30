@@ -1,26 +1,4 @@
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
 
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
-```
 
 <h1 align="center">Hi 👋, I'm Aniket Parmar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
@@ -53,3 +31,47 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketparmar29&show_icons=true&locale=en" alt="aniketparmar29" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketparmar29&" alt="aniketparmar29" /></p>
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.tags {
+					display: flex;
+					flex-wrap: wrap;
+					height: 100%;
+					width: 100%;
+				}
+				.tag {
+					background-color: #e3ffff;
+					border-radius: 0.25em;
+					color: #0ca4a5;
+					border: 1px solid #0ca4a5;
+					display: inline-block;
+					font-size: 0.75em;
+					line-height: 2em;
+					margin: 0.125em;
+					padding: 0 0.5em;
+					text-decoration: none;
+					font-family: sans-serif;
+				}
+			</style>
+
+			<div class="tags">
+				<div class="tag">Angular</div>
+				<div class="tag">Vue(X)</div>
+				<div class="tag">JavaScript</div>
+				<div class="tag">TypeScript</div>
+			</div>
+			<div class="tags">
+				<div class="tag">(S)CSS</div>
+				<div class="tag">Building UIs</div>
+				<div class="tag">Web Components</div>
+			</div>
+			<div class="tags">
+				<div class="tag">Ionic</div>
+				<div class="tag">Electron</div>
+				<div class="tag">.NET</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
