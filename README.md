@@ -10,7 +10,8 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/aniket-parmar-a42597239/" target="_blank">Linkedin</a>
 
-- 📄 Know about my experiences <a class="btn line-btn-dark btn-icon btn-radius" href="Aniket-Parmar-Resume.pdf" title=""<i class="fa fa-download" download></i>Résumé</a>
+- 📄 Know about my experiences 
+<a class="btn line-btn-dark btn-icon btn-radius" href="Aniket-Parmar-Resume.pdf" title=""<i class="fa fa-download" download></i>Résumé</a>
 
 
 - ⚡ Fun fact **I love Cricket**
