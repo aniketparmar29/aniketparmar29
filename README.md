@@ -1,3 +1,5 @@
+<div style="display: flex;justify-content: center;flex-direction: column;" >
+
 <h1 align="center">Hi 👋, I'm Aniket Parmar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
@@ -29,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketparmar29&show_icons=true&locale=en" alt="aniketparmar29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketparmar29&" alt="aniketparmar29" /></p>
+</div>
