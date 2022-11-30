@@ -1,77 +1,9 @@
-$slider-name: typing-slider;
-$slides: 3;
-$typing-duration: 5s;
-$tab-letters: 16 23 12; //number of characters in each paragraph
-$slider-font-size: 3rem;
-$background: #FFCC00;
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: $background;
-}
-
-@keyframes cursor {
-  from, to { border-color: transparent; }
-  50% { border-color: black; }
-}
-
-@keyframes typing {
-  from { width: 100%; }
-  90%, to { width: 0; }
-}
-
-@keyframes slide {
-  #{100% / $slides} { font-size: $slider-font-size; letter-spacing: 3px; }
-  to { font-size: 0; letter-spacing: 0; }
-}
-
-.#{$slider-name} {
-  font-family: Consolas, monospace;
-  font-weight: bold;
-  text-align: center;
-  white-space: nowrap;
-}
-
-.#{$slider-name} p {
-  position: relative;
-  display: inline;
-  font-size: 0;
-  text-transform: uppercase;
-  letter-spacing: 0;
-  animation: slide $typing-duration * $slides step-start infinite;
-}
-
-.#{$slider-name} p::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  border-left: 3px solid black;
-  background-color: $background;
-  animation: typing $typing-duration infinite,
-             cursor 1s infinite;
-}
-
-@each $letters in $tab-letters {
-  $i: index($tab-letters, $letters);
-  .#{$slider-name} p:nth-child(#{$i}) {
-    animation-delay:  $typing-duration * ($i - 1);
-    &::after {
-      animation-delay: $typing-duration * ($i - 1);
-      animation-timing-function: steps(#{$letters}), step-end;
-    }
-  }
-}
-<div class="typing-slider">
-  <p>Text slider with</p>
-  <p>typing animation effect</p>
-  <p>in pure CSS.</p>
-</div>
-
+setq markdown-xhtml-header-content
+      "<style type='text/css'>
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1 {color:red;}
+</style>")
 <h1 align="center">Hi 👋, I'm Aniket Parmar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
