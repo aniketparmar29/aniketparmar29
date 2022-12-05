@@ -121,7 +121,7 @@
 <hr>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
 <div align="center">
-  <a href="https://github.com/lokesh-patidar/github-readme-activity-graph">
+  <a href="https://github.com/aniketparmar29/github-readme-activity-graph">
     <img
       style="border-radius: 50px"
       width="70%"
