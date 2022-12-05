@@ -25,6 +25,8 @@
 <a href="https://twitter.com/aniket9904026" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket9904026" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-parmar-a42597239" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-parmar-a42597239" height="30" width="40" /></a>
 </p>
+<br>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <table  align=center>
@@ -36,7 +38,6 @@
    
   </tr>
   <tr>
-   
   <td align=center>  <img src="https://img.icons8.com/color/48/null/chakra-ui.png"   width=100  ></td>
    <td align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png"  height=100    ></td>
   <td align=center> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"  height=100  ></td>
@@ -45,6 +46,8 @@
 
 </table>
 
+<br>
+<hr>
 
 <h3 align="left">Git profile Trophies:</h3>
 
@@ -56,7 +59,8 @@
     />
   </a>
 </div>
-
+<br>
+<hr>
 <div align="center">
   <a href="https://github.com/aniketparmar29/github-readme-stats">
     <img
@@ -66,7 +70,7 @@
   </a>
 </div>
 <br />
-
+<hr>
 <!-- https://streak-stats.demolab.com/demo/  -->
 <div align="center">
   <a href="https://github.com/aniketparmar29/github-readme-streak-stats">
@@ -78,7 +82,7 @@
   </a>
 </div>
 <br />
-
+<hr>
 <div align="center">
   <a href="https://github.com/aniketparmar29/github-readme-stats">
     <img
@@ -87,7 +91,8 @@
     />
   </a>
 </div>
-
+<br>
+<hr>
 <div align="center">
   <a href="https://github.com/lokesh-patidar">
     <span>
@@ -99,7 +104,8 @@
     </span>
   </a>
 </div>
-
+<br>
+<hr>
 <div align="center">
   <a href="https://github.com/aniketparmar29">
     <span>
@@ -111,7 +117,8 @@
     </span>
   </a>
 </div>
-
+<br>
+<hr>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
 <div align="center">
   <a href="https://github.com/lokesh-patidar/github-readme-activity-graph">
@@ -123,7 +130,8 @@
     />
   </a>
 </div>
-
+<br>
+<hr>
 <!--  -->
 <!--  -->
 <!--  -->
