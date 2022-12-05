@@ -39,9 +39,75 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/aniketparmar29/github-readme-stats">
+    <img
+      alt="aniketparmar29 Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketparmar29&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
+    />
+  </a>
+</div>
+<br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketparmar29&show_icons=true&locale=en&layout=hybrid" alt="aniketparmar29" /></p>
+<!-- https://streak-stats.demolab.com/demo/  -->
+<div align="center">
+  <a href="https://github.com/aniketparmar29/github-readme-streak-stats">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="aniketparmar29 streak"
+      src="https://streak-stats.demolab.com?user=aniketparmar29&theme=dark&hide_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
+    />
+  </a>
+</div>
+<br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketparmar29&show_icons=true&locale=en" alt="aniketparmar29" /></p>
+<div align="center">
+  <a href="https://github.com/aniketparmar29/github-readme-stats">
+    <img
+      alt="aniketparmar29 Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=aniketparmar29&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
+    />
+  </a>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketparmar29&" alt="aniketparmar29" /></p>
+<div align="center">
+  <a href="https://github.com/lokesh-patidar">
+    <span>
+      <img
+        alt=""
+        align="center"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketparmar29&theme=dark&background=0071E3"
+      />
+    </span>
+  </a>
+</div>
+
+<!-- <div align="center">
+  <a href="https://github.com/aniketparmar29">
+    <span>
+      <img
+        alt=""
+        align="center"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketparmar29&theme=github_dark"
+      />
+    </span>
+  </a>
+</div> -->
+
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
+<div align="center">
+  <a href="https://github.com/lokesh-patidar/github-readme-activity-graph">
+    <img
+      style="border-radius: 50px"
+      width="70%"
+      alt="lokesh-patidar Activity Graph"
+      src="https://activity-graph.herokuapp.com/graph?username=aniketparmar29&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
+    />
+  </a>
+</div>
+
+<!--  -->
+<!--  -->
+<!--  -->
+<!--  -->
+
