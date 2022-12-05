@@ -82,7 +82,7 @@
   </a>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/aniketparmar29">
     <span>
       <img
@@ -92,7 +92,7 @@
       />
     </span>
   </a>
-</div> -->
+</div>
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
 <div align="center">
@@ -100,7 +100,7 @@
     <img
       style="border-radius: 50px"
       width="70%"
-      alt="lokesh-patidar Activity Graph"
+      alt="aniket parmar Activity Graph"
       src="https://activity-graph.herokuapp.com/graph?username=aniketparmar29&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
     />
   </a>
