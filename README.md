@@ -118,22 +118,4 @@
   </a>
 </div>
 <br>
-<hr>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph#available-themes -->
-<div align="center">
-  <a href="https://github.com/aniketparmar29/github-readme-activity-graph">
-    <img
-      style="border-radius: 50px"
-      width="70%"
-      alt="aniket parmar Activity Graph"
-      src="https://activity-graph.herokuapp.com/graph?username=aniketparmar29&bg_color=0071E3&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=ECECEC"
-    />
-  </a>
-</div>
-<br>
-<hr>
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
 
