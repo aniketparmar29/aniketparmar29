@@ -52,12 +52,9 @@
 <h3 align="left">Git profile Trophies:</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=aniketparmar29"
-      alt="aniketparmar29"
-    />
-  </a>
+  <p align="center" style="box-shadow: rgb(211, 0, 248) 0px 1px 20px 5px; background:rgb(211, 0, 248);border-radius:10px">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketparmar29&theme=radical&no-frame=false&no-bg=false&margin-w=2" width="100%"/>
+</p>
 </div>
 <br>
 <hr>
@@ -89,19 +86,6 @@
       alt="aniketparmar29 Github Stats"
       src="https://github-readme-stats.vercel.app/api?username=aniketparmar29&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
     />
-  </a>
-</div>
-<br>
-<hr>
-<div align="center">
-  <a href="https://github.com/lokesh-patidar">
-    <span>
-      <img
-        alt=""
-        align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketparmar29&theme=dark&background=0071E3"
-      />
-    </span>
   </a>
 </div>
 <br>
