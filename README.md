@@ -46,8 +46,8 @@
 <tr>
   <td align=center>  <img src="https://cdn.iconscout.com/icon/free/png-128/html-59-225995.png"   width=100  ></td>
    <td align=center> <img src="https://cdn-icons-png.flaticon.com/128/888/888897.png"  height=100    ></td>
+ <td align=center> <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png"  height=100  ></td>
   <td align=center> <img src="https://code.visualstudio.com/assets/images/code-stable.png"  height=100  ></td>
-  <td align=center> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-white.svg"  height=100  ></td>
   </tr>
 </table>
 
