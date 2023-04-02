@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://aniketparmar29.github.io/" target="_blank">Portfolio</a>
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,redux,node.js,tailwindcss,javascript**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/aniket-parmar-a42597239/" target="_blank">Linkedin</a>
 
